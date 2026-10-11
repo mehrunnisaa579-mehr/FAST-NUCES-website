@@ -30,3 +30,9 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+
+## Contributors
+
+- [Muhammad Isa](https://github.com/m250526-del): Backend Developer, Homepage Design
+- [Mehrunnisa Shabbir](https://github.com/mehrunnisaa579-mehr): Backend Developer, Frontend Design
+- [Ali Zafar](https://github.com/Slayer-10): Frontend UI/UX Developer
